@@ -41,11 +41,6 @@ Arquivo principal: `country_wise_latest.csv`
 
 ---
 
-## 📄 Relatório
-Um relatório do desenvolvimento foi incluído como parte da entrega do trabalho, detalhando decisões de estrutura de dados, modularização e análise de desempenho.
-
----
-
 ## 🚀 Como executar
 
 1. Clone o repositório
@@ -95,11 +90,6 @@ Main file: `country_wise_latest.csv`
 - Total cases, deaths, and recovered
 - Deaths per 100 inhabitants
 - Recoveries per 100 inhabitants
-
----
-
-## 📄 Report
-A development report is included, describing data structure decisions, modularization, and performance analysis.
 
 ---
 
